@@ -1,0 +1,8 @@
+=> HTML structuring in a web page
+=> CSS methods where,is,not
+=> CSS root method, animations
+=> Javascript Immediately Invoked Function Expression(IIFE)
+=> Javascript LocalStorage
+=> Calling APIs
+=> HUGGING FACE
+=> AI Integration
